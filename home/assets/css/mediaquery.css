@@ -215,8 +215,6 @@
     .search-box{
         width: 80%;
         padding: 30px;
-        border-radius: 40px;
-        box-shadow: 0px 4px 8px #0B407A;
     }
     .newform select {
         padding: 0px 15px;
@@ -254,6 +252,9 @@
 .link-sections a{
     font-size: 14px;
 }
+         #background{
+        padding: 0px;
+    }
 }
 
 /*screen size for mobile phones*/
@@ -279,9 +280,7 @@
     .submit{
         width: 200px;
     }
-    #background{
-        padding: 10px;
-    }
+ 
     
 #search-form{
     width: 100%;
