@@ -153,6 +153,12 @@
   .types{
       width: 120px;
   }
+  .part-text h2{
+    font-size: 27px;
+}
+.part-text p{
+    font-size: 16px;
+}
   .comps1{
       width: 80px;
       height: 80px;
@@ -169,11 +175,14 @@
       width: 100px;
       height: 40px;
   }
+  #featured h2{
+    font-size: 27px;
+}
   #welcome h1{
-      font-size: 40px;
+      font-size: 32px;
   }
   #welcome p{
-      font-size: 17px;
+      font-size: 18px;
   }
   #how-it-works{
       display: block;
@@ -182,10 +191,10 @@
       display: none;
   }
   #details h3{
-      font-size: 30px;
+      font-size: 32px;
   }
   #details p{
-      font-size: 17px;
+      font-size: 18px;
   }
   .footer-img, #horizantal-line{
       display: none;
@@ -215,6 +224,19 @@
     .search-box{
         width: 80%;
         padding: 30px;
+     
+    }
+    #welcome h1{
+        font-size: 27px;
+    }
+    #welcome p{
+        font-size: 16px;
+    }
+    #details h3{
+        font-size: 27px;
+    }
+    #details p{
+        font-size: 16px;
     }
     .newform select {
         padding: 0px 15px;
@@ -252,9 +274,10 @@
 .link-sections a{
     font-size: 14px;
 }
-         #background{
-        padding: 0px;
-    }
+#background{
+    padding: 0px;
+}
+
 }
 
 /*screen size for mobile phones*/
@@ -281,7 +304,6 @@
         width: 200px;
     }
  
-    
 #search-form{
     width: 100%;
     margin: auto;
@@ -310,7 +332,7 @@
     height: 200px;
     padding: 10px;
 }
-footer{
+#end-of-page{
     padding: 15px;
 }
 }
