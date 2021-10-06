@@ -29,7 +29,6 @@ body{
 
 .nav-wrapper{
     display: flex;
-    flex-direction: row;
     justify-content: right;
 }
 .nav-wrapper a{
