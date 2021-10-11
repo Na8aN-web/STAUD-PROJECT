@@ -571,6 +571,9 @@ select::-ms-expand {
     height: 21.6px;
     width: 21.6px;  
 }
+#firstsocial-links a{
+    margin: 10px;
+}
 #social-links a{
     padding: 10px;
 }
