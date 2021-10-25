@@ -311,9 +311,9 @@ select::-ms-expand {
     color: #101010;
 }
 
-.featured-button{
+.hostel-button{
     padding: 10px;
-    background-color: var(--blue);
+    background-color: var(--color1);
     color: white;
     border-radius: 4px;
     text-align: center;
@@ -323,6 +323,13 @@ select::-ms-expand {
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
+}
+.hostel-button a{
+    color: white;
+    text-decoration: none;
+}
+.hostel-button a:hover{
+    color: var(--color2);
 }
 #shuffle{
     display: flex;
