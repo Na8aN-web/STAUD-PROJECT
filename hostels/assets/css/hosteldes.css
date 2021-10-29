@@ -438,7 +438,7 @@ select::-ms-expand {
     flex-direction: row;
     background-color: var(--color1);
     justify-content: space-evenly;
-    padding: 25px;
+    padding: 35px;
 }
 #reg-details{
     font-family: Montserrat;
