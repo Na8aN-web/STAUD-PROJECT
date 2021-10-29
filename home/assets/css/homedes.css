@@ -313,7 +313,7 @@ select::-ms-expand {
 
 .hostel-button{
     padding: 10px;
-    background-color: var(--color1);
+    background-color: var(--blue);
     color: white;
     border-radius: 4px;
     text-align: center;
