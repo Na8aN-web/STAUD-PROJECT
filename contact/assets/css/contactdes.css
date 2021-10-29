@@ -146,7 +146,7 @@ textarea{
     flex-direction: row;
     background-color: var(--blue);
     justify-content: space-evenly;
-    padding: 25px;
+    padding: 35px;
 }
 #reg-details{
     font-family: Montserrat;
